@@ -1,0 +1,7 @@
+#!/bin/bash
+
+Player=$(sed '1d' ../csv/Players_stat.csv | cut -d "," -f2-3 | tr "," " " | shuf -n 1)
+HP=$(sed '1d' ../csv/Players_stat.csv | cut -d "," -f3 | tr "," " ")
+
+echo $Player
+echo 'HP:' -a echo $HP

@@ -1,0 +1,5 @@
+id,name,hp,mp,str,int,def,res,spd,luck,race,class,rarity 
+1,Faye,60,60,30,60,8,8,11,8,1,1,1 
+2,Nima,65,40,35,6,20,18,12,25,6,1,2 
+3,Keanu_Reeves,50,50,50,0,30,30,20,15,2,5,3 
+4,Ullr,50,60,20,10,15,10,15,10,2,6,4 

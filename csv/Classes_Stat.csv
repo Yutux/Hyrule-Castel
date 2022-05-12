@@ -1,0 +1,7 @@
+id,name,hp,mp,str,int,def,res,spd,luck
+1,Elementalist,10,15,5,10,5,5,4,5
+2,Light_Mage,5,15,0,6,3,3,2,2
+3,Dark_Mage,5,15,0,6,3,5,3,1
+4,Knight,10,10,6,0,5,5,2,1
+5,Assassin,5,10,10,5,2,2,8,10
+6,Monk,10,10,10,0,4,4,6,2
